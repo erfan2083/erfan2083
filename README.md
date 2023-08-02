@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erfan Manouchehri</h1>
 <h3 align="center">A passionate Computer engineer from Iran</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tvMjc1MTI1eHRlZHBlZHFja2Jna3hzYmhvYmR3cnRkM2x2dW9lMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erfan2083&label=Profile%20views&color=0e75b6&style=flat" alt="erfan2083" /> </p>
 
 - 📫 How to reach me **erfan2004@yahoo.com**
