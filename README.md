@@ -1,4 +1,4 @@
-<h2 align="left">Hello Word 👋</h2>
+<h2 align="left">Hello World 👋</h2>
 
 ###
 
