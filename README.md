@@ -2,7 +2,7 @@
 
 # Erfan Manouchehri
 
-**Full-Stack Developer · Python & JavaScript · Exploring AI**
+**Full-Stack Developer · Exploring AI**
 
 *Computer Science graduate based in Shiraz, building web platforms end-to-end — and teaching them to think with LLMs.*
 
